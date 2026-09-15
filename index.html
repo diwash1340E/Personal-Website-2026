@@ -10,8 +10,10 @@
 <div id="loading"><span>Loading portfolio…</span></div>
 <script>
 (async()=>{
-  const count=10;
-  const files=Array.from({length:count},(_,i)=>`site/part-${String(i).padStart(2,'0')}.txt`);
+  const files=[
+    'site/part-00.txt','site/part-01.txt','site/part-02.txt','site/part-03.txt','site/part-04.txt',
+    'site/part-05a.txt','site/part-05b.txt','site/part-06.txt','site/part-07.txt','site/part-08.txt','site/part-09.txt'
+  ];
   try{
     const html=(await Promise.all(files.map(f=>fetch(f).then(r=>{if(!r.ok) throw new Error(f); return r.text();})))).join('');
     document.open(); document.write(html); document.close();
