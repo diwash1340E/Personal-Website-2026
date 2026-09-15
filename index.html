@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Diwash Thapa</title>
+<style>html,body{margin:0;background:#0a0f14;color:#fff;font-family:system-ui}#loading{min-height:100vh;display:grid;place-items:center}#loading span{opacity:.75}</style>
+</head>
+<body>
+<div id="loading"><span>Loading portfolio…</span></div>
+<script>
+(async()=>{
+  const count=15;
+  const files=Array.from({length:count},(_,i)=>`site/part-${String(i).padStart(2,'0')}.txt`);
+  try{
+    const html=(await Promise.all(files.map(f=>fetch(f).then(r=>{if(!r.ok) throw new Error(f); return r.text();})))).join('');
+    document.open(); document.write(html); document.close();
+  }catch(e){
+    document.getElementById('loading').innerHTML='<span>Unable to load portfolio.</span>';
+    console.error(e);
+  }
+})();
+</script>
+</body>
+</html>
