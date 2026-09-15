@@ -1,0 +1,73 @@
+epeat(2,1fr);gap:10px;margin-top:18px}
+  .project-mini{padding:13px 14px;border-radius:14px;border:1px solid rgba(220,232,238,.1);background:rgba(255,255,255,.025)}
+  .project-mini b{display:block;font-size:13px;margin-bottom:4px}.project-mini small{color:#8fa0aa;font-size:11px}
+
+  /* MUSIC */
+  #music{background:
+    radial-gradient(circle at 15% 20%,rgba(255,132,74,.18),transparent 30%),
+    radial-gradient(circle at 80% 70%,rgba(255,72,154,.14),transparent 32%),
+    linear-gradient(145deg,#1a0c0a,#130c15 55%,#080609);
+  }
+  .music-grid{display:grid;grid-template-columns:1fr 1fr;gap:50px;align-items:center}
+  .cassette{position:relative;height:560px;display:grid;place-items:center}
+  .cassette-link{display:block;width:min(92%,420px);border-radius:28px;cursor:pointer;color:inherit;text-decoration:none;outline:none}
+  .cassette-shell{position:relative;width:100%;height:280px;border-radius:28px;background:linear-gradient(145deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1px solid rgba(255,255,255,.12);box-shadow:0 30px 80px rgba(0,0,0,.42), inset 0 1px 0 rgba(255,255,255,.18);backdrop-filter:blur(10px);overflow:hidden;transform:rotate(-5deg);transition:transform .28s ease,box-shadow .28s ease,border-color .28s ease}
+  .cassette-link:hover .cassette-shell,.cassette-link:focus-visible .cassette-shell{transform:rotate(-3deg) scale(1.025);border-color:rgba(255,255,255,.24);box-shadow:0 38px 95px rgba(0,0,0,.5),0 0 34px rgba(255,105,159,.10),inset 0 1px 0 rgba(255,255,255,.2)}
+  .cassette-link:active .cassette-shell{transform:rotate(-4deg) scale(.99)}
+  .cassette-shell:before{content:"";position:absolute;left:18px;right:18px;top:18px;height:58px;border-radius:18px;background:linear-gradient(90deg,rgba(255,181,130,.15),rgba(255,104,163,.18));border:1px solid rgba(255,255,255,.12)}
+  .cassette-shell:after{content:"DIWASH MIX - PERSONAL FAVORITES";position:absolute;top:18px;left:18px;right:18px;height:58px;display:grid;place-items:center;text-align:center;font-size:13px;letter-spacing:.095em;font-weight:900;color:#fff;text-shadow:0 0 14px rgba(255,255,255,.28),0 2px 10px rgba(0,0,0,.45);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;z-index:3}
+  .cassette-window{position:absolute;left:40px;right:40px;top:92px;height:112px;border-radius:22px;background:linear-gradient(180deg,rgba(8,8,14,.9),rgba(29,10,26,.68));border:1px solid rgba(255,255,255,.1);box-shadow:inset 0 0 40px rgba(0,0,0,.45)}
+  .reel{position:absolute;top:112px;width:86px;height:86px;border-radius:50%;background:radial-gradient(circle at 35% 35%,#ffffff,#d8d4de 44%,#8a8394 46%,#4b4454 66%,#17131d 100%);box-shadow:0 0 25px rgba(255,255,255,.08);animation:spin 7.5s linear infinite}
+  .reel:before{content:"";position:absolute;inset:18px;border-radius:50%;background:radial-gradient(circle,#2a2230 0 35%,#d4ced9 36% 46%,#5b5366 47% 100%)}
+  .reel:after{content:"";position:absolute;left:50%;top:50%;width:42px;height:42px;transform:translate(-50%,-50%);border-radius:50%;background:conic-gradient(from 0deg,#2e2538 0 16%,transparent 16% 32%,#2e2538 32% 48%,transparent 48% 64%,#2e2538 64% 80%,transparent 80% 100%)}
+  .reel.left{left:78px}
+  .reel.right{right:78px;animation-duration:6.8s}
+  .tape-strip{position:absolute;left:146px;right:146px;top:150px;height:10px;border-radius:999px;background:linear-gradient(90deg,rgba(240,240,248,.25),rgba(255,255,255,.65),rgba(240,240,248,.25));box-shadow:0 0 18px rgba(255,255,255,.15)}
+  .cassette-screws span{position:absolute;width:10px;height:10px;border-radius:50%;background:rgba(255,255,255,.38);box-shadow:0 0 8px rgba(255,255,255,.14)}
+  .cassette-screws span:nth-child(1){left:18px;top:18px}.cassette-screws span:nth-child(2){right:18px;top:18px}.cassette-screws span:nth-child(3){left:18px;bottom:18px}.cassette-screws span:nth-child(4){right:18px;bottom:18px}
+  .eq-bars{position:absolute;left:38px;right:38px;bottom:22px;height:34px;display:flex;align-items:flex-end;gap:8px}
+  .eq-bars span{flex:1;border-radius:999px 999px 6px 6px;background:linear-gradient(180deg,#ffd0a4,#ff679f);opacity:.9;animation:equalize 1.4s ease-in-out infinite}
+  .eq-bars span:nth-child(2){animation-delay:-.2s}.eq-bars span:nth-child(3){animation-delay:-.5s}.eq-bars span:nth-child(4){animation-delay:-.8s}.eq-bars span:nth-child(5){animation-delay:-1s}.eq-bars span:nth-child(6){animation-delay:-.35s}.eq-bars span:nth-child(7){animation-delay:-.65s}
+  .note{position:absolute;font-size:28px;opacity:.55;animation:notes 8s linear infinite}
+  .n1{left:8%;top:20%}.n2{left:75%;top:30%;animation-delay:-3s}.n3{left:12%;top:70%;animation-delay:-5s}.n4{left:86%;top:75%;animation-delay:-1s}
+
+  /* ASTRONOMY */
+  #astronomy{background:radial-gradient(circle at 50% 38%,#16213b 0,#080b18 38%,#020307 76%)}
+  .starfield,.starfield:before,.starfield:after{position:absolute;inset:0;content:"";background-image:radial-gradient(#fff 1px,transparent 1px);background-size:70px 70px;opacity:.2}
+  .starfield:before{background-size:110px 110px;transform:translate(20px,30px);opacity:.2}
+  .starfield:after{background-size:150px 150px;transform:translate(50px,80px);opacity:.12}
+  .space-grid{display:grid;grid-template-columns:1fr 1fr;gap:60px;align-items:center}
+  .cosmos{position:relative;height:600px}
+  .nebula-cloud{position:absolute;border-radius:50%;filter:blur(18px);opacity:.55;animation:nebulaFloat 12s ease-in-out infinite}
+  .nebula-cloud.n1{width:210px;height:150px;left:12%;top:18%;background:radial-gradient(circle,rgba(104,96,255,.65),rgba(104,96,255,0) 68%)}
+  .nebula-cloud.n2{width:250px;height:170px;right:8%;bottom:18%;background:radial-gradient(circle,rgba(255,120,168,.42),rgba(255,120,168,0) 70%);animation-delay:-3s}
+  .nebula-cloud.n3{width:180px;height:120px;right:18%;top:20%;background:radial-gradient(circle,rgba(109,228,255,.32),rgba(109,228,255,0) 72%);animation-delay:-6s}
+  .planet-main{position:absolute;width:290px;height:290px;left:50%;top:50%;transform:translate(-50%,-50%);border-radius:50%;background:radial-gradient(circle at 30% 30%,#ffd8a3 0 9%,#d88e62 10% 28%,#9c5d6d 28% 48%,#5e4f96 48% 67%,#2d2f62 67% 100%);box-shadow:0 0 80px rgba(160,140,255,.25), inset -30px -32px 70px rgba(14,12,40,.55);animation:planetFloat 9s ease-in-out infinite}
+  .planet-main:before{content:"";position:absolute;inset:0;border-radius:50%;background:repeating-linear-gradient(170deg,rgba(255,255,255,.11) 0 12px,rgba(255,255,255,0) 12px 32px);mix-blend-mode:soft-light;opacity:.35}
+  .planet-main:after{content:"";position:absolute;width:42px;height:42px;border-radius:50%;left:24%;top:28%;background:radial-gradient(circle,rgba(255,255,255,.36),rgba(255,255,255,0) 72%)}
+  .planet-ring{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%) rotate(-12deg);border-radius:50%;border:2px solid rgba(255,213,157,.55);box-shadow:0 0 24px rgba(255,194,121,.2);mix-blend-mode:screen;animation:ringDrift 14s linear infinite}
+  .planet-ring.r1{width:400px;height:126px}
+  .planet-ring.r2{width:455px;height:150px;border-color:rgba(129,189,255,.28);box-shadow:0 0 18px rgba(129,189,255,.16);animation-duration:18s;animation-direction:reverse}
+  .mini-planet{position:absolute;width:78px;height:78px;border-radius:50%;right:16%;top:18%;background:radial-gradient(circle at 30% 30%,#fff8d0,#d8b88d 36%,#7a678d 70%,#37314d 100%);box-shadow:0 0 22px rgba(255,243,199,.15);animation:miniPlanetOrbit 10s ease-in-out infinite}
+  .mini-planet:after{content:"";position:absolute;left:-12px;right:-12px;top:34px;height:10px;border-radius:50%;border:1px solid rgba(255,241,182,.38);transform:rotate(-18deg)}
+  .comet{position:absolute;width:170px;height:6px;left:12%;bottom:22%;border-radius:999px;background:linear-gradient(90deg,rgba(255,255,255,0),rgba(155,230,255,.25) 28%,rgba(255,255,255,.95) 100%);filter:drop-shadow(0 0 8px rgba(180,240,255,.45));transform:rotate(-18deg);animation:cometPass 8.5s ease-in-out infinite}
+  .comet:after{content:"";position:absolute;right:-6px;top:-6px;width:18px;height:18px;border-radius:50%;background:radial-gradient(circle,#fff,#9aeaff 60%,rgba(154,234,255,0) 72%);box-shadow:0 0 20px rgba(154,234,255,.55)}
+  .sparkle{position:absolute;border-radius:50%;background:#fff;box-shadow:0 0 10px rgba(255,255,255,.55);animation:twinkle 3.2s ease-in-out infinite}
+  .sparkle.s1{width:4px;height:4px;left:20%;top:24%}
+  .sparkle.s2{width:5px;height:5px;right:24%;top:32%;animation-delay:-1s}
+  .sparkle.s3{width:3px;height:3px;left:66%;bottom:24%;animation-delay:-2.1s}
+  .sparkle.s4{width:4px;height:4px;left:38%;top:14%;animation-delay:-.6s}
+
+  /* FOOTBALL */
+  #football{background:
+    linear-gradient(rgba(4,24,14,.72),rgba(2,12,8,.92)),
+    repeating-linear-gradient(90deg,rgba(255,255,255,.025) 0 8vw,rgba(255,255,255,.055) 8vw 16vw),#0c3b21;
+  }
+  .pitch-lines{position:absolute;inset:8% 4%;border:2px solid rgba(255,255,255,.08);border-radius:22px;pointer-events:none}
+  .pitch-lines:before{content:"";position:absolute;left:50%;top:0;bottom:0;border-left:2px solid rgba(255,255,255,.07)}
+  .pitch-lines:after{content:"";position:absolute;width:180px;height:180px;border:2px solid rgba(255,255,255,.07);border-radius:50%;left:50%;top:50%;transform:translate(-50%,-50%)}
+  .football-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:50px;align-items:center}
+  .positions{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:26px}
+  .pos{padding:18px;border-radius:18px;text-align:center;font-weight:800}
+  .football-photo-wrap{position:relative;width:min(440px,90vw);aspect-ratio:4/3;margin:auto;border-radius:34px;overflow:hidden;border:1px solid rgba(255,255,255,.16);box-shadow:0 32px 90px rgba(0,0,0,.42),0 0 55px rgba(75,255,157,.08);animation:ballfloat 5.2s ease-in-out infinite;background:#0b1a11}
+  .football-photo-wrap:after{content:"THE BEAUTIFUL GAME";position:absolute;left:18px;bottom:16px;padding:9px 12px;border-radius:999px;background:rgba(4,15,9,.66);border:1px solid rgba(255,255,255,.14);backdrop-filter:blur(10px);font-size:11px;font-weight:900;letter-spa
