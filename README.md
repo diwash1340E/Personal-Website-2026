@@ -1,1 +1,21 @@
-# Personal-Website-2026
+# Personal Website 2026
+
+Personal portfolio website for Diwash Thapa — Computer Science undergraduate at Texas Tech University.
+
+## Sections
+
+- About Me
+- Research interests in AI, neural networks, and reinforcement learning
+- Music and the Diwash Mix playlist
+- Astronomy
+- Football / Soccer
+- Blog / Notes
+- Contact form
+
+## Website
+
+The site entry point is `index.html`. It loads the portfolio segments stored under `site/`.
+
+## Contact
+
+`diwthapa@ttu.edu`
