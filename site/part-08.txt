@@ -1,0 +1,59 @@
+ython</span><span class="stack-tag">C</span><span class="stack-tag">SQL</span><span class="stack-tag">Java</span><span class="stack-tag">JavaScript</span><span class="stack-tag">TensorFlow</span><span class="stack-tag">PyTorch</span><span class="stack-tag">Pandas</span>
+      </div>
+      <a class="btn" href="data:application/pdf;base64,JVBERi0xLjMKJZOMi54gUmVwb3J0TGFiIEdlbmVyYXRlZCBQREYgZG9jdW1lbnQgKG9wZW5zb3VyY2UpCjEgMCBvYmoKPDwKL0YxIDIgMCBSIC9GMiAzIDAgUiAvRjMgNCAwIFIKPj4KZW5kb2JqCjIgMCBvYmoKPDwKL0Jhc2VGb250IC9IZWx2ZXRpY2EgL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcgL05hbWUgL0YxIC9TdWJ0eXBlIC9UeXBlMSAvVHlwZSAvRm9udAo+PgplbmRvYmoKMyAwIG9iago8PAovQmFzZUZvbnQgL0hlbHZldGljYS1Cb2xkIC9FbmNvZGluZyAvV2luQW5zaUVuY29kaW5nIC9OYW1lIC9GMiAvU3VidHlwZSAvVHlwZTEgL1R5cGUgL0ZvbnQKPj4KZW5kb2JqCjQgMCBvYmoKPDwKL0Jhc2VGb250IC9IZWx2ZXRpY2EtT2JsaXF1ZSAvRW5jb2RpbmcgL1dpbkFuc2lFbmNvZGluZyAvTmFtZSAvRjMgL1N1YnR5cGUgL1R5cGUxIC9UeXBlIC9Gb250Cj4+CmVuZG9iago1IDAgb2JqCjw8Ci9Db250ZW50cyA5IDAgUiAvTWVkaWFCb3ggWyAwIDAgNjEyIDc5MiBdIC9QYXJlbnQgOCAwIFIgL1Jlc291cmNlcyA8PAovRm9udCAxIDAgUiAvUHJvY1NldCBbIC9QREYgL1RleHQgL0ltYWdlQiAvSW1hZ2VDIC9JbWFnZUkgXQo+PiAvUm90YXRlIDAgL1RyYW5zIDw8Cgo+PiAKICAvVHlwZSAvUGFnZQo+PgplbmRvYmoKNiAwIG9iago8PAovUGFnZU1vZGUgL1VzZU5vbmUgL1BhZ2VzIDggMCBSIC9UeXBlIC9DYXRhbG9nCj4+CmVuZG9iago3IDAgb2JqCjw8Ci9BdXRob3IgKGFub255bW91cykgL0NyZWF0aW9uRGF0ZSAoRDoyMDI2MDkxNTA2MzU0NyswMCcwMCcpIC9DcmVhdG9yIChhbm9ueW1vdXMpIC9LZXl3b3JkcyAoKSAvTW9kRGF0ZSAoRDoyMDI2MDkxNTA2MzU0NyswMCcwMCcpIC9Qcm9kdWNlciAoUmVwb3J0TGFiIFBERiBMaWJyYXJ5IC0gXChvcGVuc291cmNlXCkpIAogIC9TdWJqZWN0ICh1bnNwZWNpZmllZCkgL1RpdGxlICh1bnRpdGxlZCkgL1RyYXBwZWQgL0ZhbHNlCj4+CmVuZG9iago4IDAgb2JqCjw8Ci9Db3VudCAxIC9LaWRzIFsgNSAwIFIgXSAvVHlwZSAvUGFnZXMKPj4KZW5kb2JqCjkgMCBvYmoKPDwKL0ZpbHRlciBbIC9BU0NJSTg1RGVjb2RlIC9GbGF0ZURlY29kZSBdIC9MZW5ndGggMjY0OQo+PgpzdHJlYW0KR2F0VTQ+QkFMaCg0T1Q1MyZNNEYxVjV0PjY1UzomPVVfVDEhZ2w6RUFmZ05rOC5CW0JnVTo5blZXUHFmbCdAIUFATTJBVzw+XDp0aDwwMUNcVTlBOz8yUU0uQjomXFMiUnVFQSE1akl0JT5MXWAmNTluSmhQcEIhKHEuJDVEc25WOyFeMDJjKkgzI2RHOSRyJXBoZTdLVXRBIzwscnRjQUpoSV01ajEoME9ZMjVLcSVKNjY1RnRJTFZYUyM/azU2JzQmM2hMbSxYKHVnJ0ImPFVgKV4mVTora1FhVCY+YC1zO1ZkOjdxRXVRb2w9JCFrQkJmOmEzUlVjWiInXzEwUitSXVRBUGJOSUg8L1lwZy5OKzhYKUtjYlknJj0/P0ZPcScpYUJAO187byRSWjRcQGtKIVcoJUFtYTc9QChXUlo9ajsndElePE9EYic/Z0JJXjw2RFQxSyVhJUNiaG9aNXIkMScqZXVEal9DJzc6RHNAY0lOOzVxQENQOyVJRCxYZktwTEtEKlJkIihfZ0JbQy10aWBuKU02WCI+dCIuITBuYy5kXSdhQDhXcipeKG90R2RLb1MvJCcpSjolcTI+QT5pQmgzZk8wWm9RaydVMF4ucj0vTChSZGdIT2AlZylwbFVaJSNdazFkU2ooKDREY1M9SmhOIylvUWYtXyE7SEVWcUk0XExzZTJkMkJdRDk+MFhzNkRQTF45YHU8bEhbMSc6WS9iaWAmOjdHKGhxcS4xIkJZdEgqImdlWjZSbnQrKipZVCVJU2lkNHJzR18tM0hvYUIrOEg/SitiSTVRVUtqLEZMMF4iUUJSIWkxXUNAaFlJTyJYJ0AoOl1mISNTM2U7YUlDNEMndD9CcCVyPzM4ODUzcCpWMUowZFJlYVNYN0ciO2dMYVhMX0xiVFVnM29qLjlVNlFuX3QqajRQWDZaUjpBK2FjN2Z1OThtczIuQWEnRVopXFlOKydSWHRYW11UOkBWZ2w6c1M8ZlxgMFcuNVxXNTRYNzMlWUlhcTdQYDVfT1VmRj1WOVlDaj0/LiUlLFIjXyxuWGdDKl4vUzktMSE6LUgiQEZlcjxEZGYmJ0wkbHJPTUVgJzVwKSpjNSkmb2E+X2deVzMwSkFfazphSGYlSDJEb1VLT0oscVRbO2xyVEFiOTBAbyc/MScwaktMYW1aQSUlTXVAZmc7QmkpcElaNSFFK140SzVRUFAxPT8tYylfYiU/QVtQdD5lT25xMSswZHVLTC5SUiNHInM+JysiSVNCdVp1W0Y9JlZHWG5eVEVcZzhDOmxkciFDJjJNcDBabS1FKyJETyxHQnBCcClTSWM4dFs/OktTWmlIM2g5Ni1Xay4pXGlzZGUwJy5BM0Q/SiZzWVhDPkVzbjUxIUI0VDZHa05jP1Bsc14zaTR1VGxhY1g7NzNAWis6cD00P2BPXGAxcSpiSFFVLkE9OCQ2LFUrUF9jSTQ/Pk0mNSxjamkzQ21zQSFPQjQvMlkpVDkpMGhuZEwqJyg9VFRfSVpsKl50XiUjQV1KKFk6N0RwWDFWYyZZYC1QcE1HLGFeK2ptc2E4Rl9bJU1OWkcsSyIubkZcamg+Q0BpQTNub105MVY2Z1E0VCtHYSYnSnMqPVs9TnNcLGhbUz1ePCosUCFEcitfX1FMOGolM2ApMChLYz5GZ0EsNFpoTUFVXEouTEM+IzBkaWh1UzYuUkAtSStAKVAuSGJ0MGlzJyohOzZtZlhkQCojKSs0aipLUSVXKSdgWjEuZlA5Jz1QWTovL0BdRy1mM04hZiplc01mRihzbUFXOTJpITI8V3RzUnJFMyYxai1wWEVmaFQ6JDdfYmtxWCJYZjtdbjlfT1tmcShUNTFtJG8hMj5pREcxR0AvX1QvXHQvT1o+cWFVXjVlcFVIUGFiTk4wLlMpKUwtRERFR2xUOmsiW0ZRNV5BPkxUOmFsUyU9dCs+TCJATmFcME9hPmFxVlZlTGdKRl1HX0xAIVVsUChSNUdFTFs/UTk+WCJHKTdARD5TMWY+NDxNKVs4VkBlMCI5Lk1UUjJHbiJFbFA5dXUuJVxvQTs3NVNPcUckZG40bUhSSCtBUUdbajlbdCJUPFtgO1ZFKS1XZCxMUj9NMj8wbks8X1tbaDUmZy4tOjMuJl9cV1IzPVZLcUdsPytvQXJjOVdEZ0tsblE0WG0oRk04TEI7YCIpZUJnSi4oW19cKWdjJ2ZuJ2kwZ0ZUT1EkcVpVbFlxZGE5Y3JCLlktbVNAZGMnLipTX2BFZWxKXlYsRGNyY1RTIkNYVTI2SW1Ib2FtTCZDVEg0QExvMzYsXixuaGhxJWpUQz46WmNrNmNQIVpITz1xWzo7Z2ooWTpSOyl0JSU/IiUjXSs7UVwvX0wtYC85JzNQaDsuWStUQ3BbM3VzMlNTNXE6Y1diUyZeXHVWTl1UOSkmI3BpcjckMEt1OVhfOkJwWURwPjNtK0BaMl1mOFhHXzhbcFUwPjE1Ti9rRnQ0W1IrU2BzSmhKaC1AQjMlPUNMKltvb2tIJyk/Oj4hTi4tNUpxSGxNMFlmamtQbkwqWVpHSERBN3BiP1htb2hwKlIzS3Axc15PbTs4QWwjPFxBMkIvdTg3TSkhSFVwSi85KF8uVlVmbktnNF5oI010Z2NjbjE8OGQiZjo3bTc+N0BkUGJOOj0mPCc6KENSRDEzOFwiRkZubEVmYEIzMixGMTUiQ0A/TFE/dGFGcyFWTVQ5US9GNis/Nz5BLz5lc3FqK1cjXjdVVFIsMCIrLz09YihkTm0zVVgyJEAuR19hZ2RIMi1UZGNQTG45OVlgNVV0V18sa1RVT1JVViJCNDRwY19MRixvY1lsPShsUzZVOlEkOmdoJidNNUkxWCQ3WEYkWVtNbU8wazM9JS1JV290YClzPyk8OElIViksNjgkSWYrTzlbNXFvZW5FK2FwIjpbVys/W1oncUdmTz00Pm03RzxOKDpGL2A+LTBsOlVLQ0RhbyhMODlQSURubzdTKm05b21Fbk0+PVBmLmY2YW9VbDU3MmRMNkVnZTk9YHNyUTZNU3VkTiZMOj0qJlgsYWQlJk8zImwuJyE+YW9dYiwpZ05INzRLIS5aLj5FXXE3UFhiITUjcUgwS01QIzgmOzZUK3FoIXU7LF1idVlIVHJHKkJ1aGJRU3BuNys+PGY4K0daTSJ0V05KSD80VSlnVUN0VGVkI2hzS1QtJ1k+X1lAdCEtO1wmXEhicChpITQiRExKTjknUDNOMFU/WEBQVTYzLTtSaic3JF0qcCtGJjllMzg4ODAmcU8jLCtmZFtvcEldOyhFSV8/TGZoSjRScDs+O1ZgOz9fc29CKFQ3XlZdS2hFJmcsPmgvUjkqOlYxc3JyQUwnT0ZVLTFSNUsoL2tddGs/YDQ8aF4nYDErY1xRcTIzXV1uXXVUSFczNF88UExUP1plYjsjaG5rVDtWPFE/cU5bREtMIkAoW04zb19xNm8sUzJpM0Fdcyo8Nkw5bCYuOV0/TzVBdE9lZioxJUU9OlklKyskZW8oQn4+ZW5kc3RyZWFtCmVuZG9iagp4cmVmCjAgMTAKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwMDYxIDAwMDAwIG4gCjAwMDAwMDAxMTIgMDAwMDAgbiAKMDAwMDAwMDIxOSAwMDAwMCBuIAowMDAwMDAwMzMxIDAwMDAwIG4gCjAwMDAwMDA0NDYgMDAwMDAgbiAKMDAwMDAwMDYzOSAwMDAwMCBuIAowMDAwMDAwNzA3IDAwMDAwIG4gCjAwMDAwMDA5NjggMDAwMDAgbiAKMDAwMDAwMTAyNyAwMDAwMCBuIAp0cmFpbGVyCjw8Ci9JRCAKWzwzMjNmOGNhNmYyNmQ0NWE1M2M4NGE3MmVhYTliYjhmMT48MzIzZjhjYTZmMjZkNDVhNTNjODRhNzJlYWE5YmI4ZjE+XQolIFJlcG9ydExhYiBnZW5lcmF0ZWQgUERGIGRvY3VtZW50IC0tIGRpZ2VzdCAob3BlbnNvdXJjZSkKCi9JbmZvIDcgMCBSCi9Sb290IDYgMCBSCi9TaXplIDEwCj4+CnN0YXJ0eHJlZgozNzY3CiUlRU9GCg==" download="Diwash_Thapa_Resume.pdf">↓ Download Resume</a>
+    </div>
+    <div class="timeline reveal">
+      <article class="timeline-item glass">
+        <div class="mini-label">Research + Experience</div>
+        <h3>From turbulence data to neural networks.</h3>
+        <p>I’ve worked across machine-learning research, neural-network optimization, data analysis, and product-focused technical work—learning how to move between experiments, code, and real datasets.</p>
+      </article>
+      <article class="timeline-item glass">
+        <div class="mini-label">Coding background</div>
+        <h3 class="code-chip">while (curious) { build(); }</h3>
+        <p>I work across Python, C, SQL, Java, JavaScript, Linux, machine-learning frameworks, and web technologies—especially when I can turn an idea into something people can actually interact with.</p>
+        <div class="project-signal">
+          <div class="project-mini"><b>ixia</b><small>AI digital identity wallet</small></div>
+          <div class="project-mini"><b>MediPassport</b><small>Patient-controlled medical records</small></div>
+        </div>
+      </article>
+      <article class="timeline-item glass">
+        <div class="mini-label">Current direction</div>
+        <h3>Research that can grow with me.</h3>
+        <p>I’m exploring neural networks, AI, and reinforcement learning now, with the goal of developing deeper research questions I can continue into future graduate work.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section id="research">
+  <div class="cs-motif brace-left" style="opacity:.7">&lt;/&gt;</div>
+  <div class="wrap">
+    <div class="eyebrow reveal">Research interests</div>
+    <h2 class="reveal">What I’m thinking about lately.</h2>
+    <p class="lede reveal">I’m interested in both the systems we can build today and the questions that are still open enough to become tomorrow’s research.</p>
+    <div class="research-grid">
+      <article class="research-card glass reveal"><strong>01</strong><h3>Neural Networks</h3><p>Model efficiency, learning behavior, optimization, activation functions, and ways to make intelligent systems more capable without making them unnecessarily heavy.</p></article>
+      <article class="research-card glass reveal"><strong>02</strong><h3>Reinforcement Learning</h3><p>Agents that learn through interaction, decision-making under uncertainty, adaptive systems, and the long-term research questions around intelligent behavior.</p></article>
+      <article class="research-card glass reveal"><strong>03</strong><h3>Emerging AI</h3><p>Exploring recent technologies, practical AI systems, and ideas that connect research with real products and real-world impact.</p></article>
+    </div>
+  </div>
+</section>
+
+<section id="music">
+  <span class="note n1">♪</span><span class="note n2">♫</span><span class="note n3">♬</span><span class="note n4">♪</span>
+  <div class="wrap music-grid">
+    <div class="reveal">
+      <div class="eyebrow">Music</div>
+      <h2>Some things are better said with six strings.</h2>
+      <p class="lede">Music is one of the parts of my life that has nothing to do with grades, code, or research—and that’s exactly why I love it.</p>
+      <p>I play guitar and enjoy learning songs that I connect with. I’m not trying to turn every hobby into a profession; I like having something I can pick up, play, and enjoy just because it feels good.</p>
+      <span class="pill">Guitarist</span>
+      <span class="pill">Learning by ear & repetition</span>
+    </div>
+    <div class="cassette reveal" aria-label="Animated recording cassette illustration">
+      <a class="cassette-link" href="https://music.youtube.com/playlist?list=PL-j3QlLhtFEwT2e78qpPb7GSaNfUn74hr&amp;si=TZJYAHG5NezeSsEg" target="_blank" rel="noopener noreferrer" aria-label="Open Diwash Mix - Personal Favorites on YouTube Music" title="Open Diwash Mix - Personal Favorites on YouTube Music">
+        <div class="cassette-shell">
+          <div class="cassette-window"></div>
+          <div class="reel left"></div>
+          <div class="reel right"></div>
