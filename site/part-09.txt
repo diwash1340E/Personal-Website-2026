@@ -1,0 +1,193 @@
+
+          <div class="tape-strip"></div>
+          <div class="cassette-screws"><span></span><span></span><span></span><span></span></div>
+          <div class="eq-bars"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section id="astronomy">
+  <div class="starfield"></div>
+  <div class="wrap space-grid">
+    <div class="reveal">
+      <div class="eyebrow">Astronomy</div>
+      <h2>Curiosity gets bigger when the sky gets darker.</h2>
+      <p class="lede">Space is one of those subjects that makes everyday problems feel smaller and bigger at the same time.</p>
+      <p>This section can become a place for your favorite ideas in astronomy—nebulae, planetary systems, cosmology, missions, photos, or thoughts about the universe.</p>
+      <span class="pill">Nebulae</span>
+      <span class="pill">Planets</span>
+      <span class="pill">Cosmology</span>
+    </div>
+    <div class="cosmos reveal">
+      <div class="nebula-cloud n1"></div>
+      <div class="nebula-cloud n2"></div>
+      <div class="nebula-cloud n3"></div>
+      <div class="sparkle s1"></div>
+      <div class="sparkle s2"></div>
+      <div class="sparkle s3"></div>
+      <div class="sparkle s4"></div>
+      <div class="comet"></div>
+      <div class="planet-ring r1"></div>
+      <div class="planet-ring r2"></div>
+      <div class="planet-main"></div>
+      <div class="mini-planet"></div>
+    </div>
+  </div>
+</section>
+
+<section id="football">
+  <div class="pitch-lines"></div>
+  <div class="wrap football-grid">
+    <div class="reveal">
+      <div class="eyebrow">Football / Soccer</div>
+      <h2>I like the game when it moves.</h2>
+      <p class="lede">I enjoy both watching and playing football, especially the tactical side of the game and players who can adapt, switch positions, and change the energy of a match.</p>
+      <div class="positions">
+        <div class="pos glass">Right Back</div><div class="pos glass">Center Back</div><div class="pos glass">Attacking Mid</div><div class="pos glass">CDM</div>
+      </div>
+      <div class="club-card glass">
+        <b>My football world</b>
+        <p style="margin:10px 0 0">Favorite player: Lionel Messi • Club: FC Barcelona since childhood • International: Argentina • Also enjoy watching Spain play. When I’m off the pitch, I also like playing FIFA.</p>
+      </div>
+    </div>
+    <div class="reveal">
+      <div class="football-photo-wrap">
+        <img class="football-photo" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Soccer_ball_on_ground.jpg" alt="A real soccer ball resting on grass" loading="lazy">
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="blog">
+  <div class="blog-ambient" aria-hidden="true">
+    <div class="blog-glow g1"></div><div class="blog-glow g2"></div><div class="blog-glow g3"></div>
+    <div class="blog-code c1">notes.md · curiosity = build()</div>
+    <div class="blog-code c2">git commit -m "keep learning"</div>
+    <div class="blog-code c3">train() → test() → reflect()</div>
+  </div>
+  <div class="wrap">
+    <div class="eyebrow reveal">Blog / Notes</div>
+    <h2 class="reveal">Things worth thinking about twice.</h2>
+    <p class="lede reveal">A place for research notes, project breakdowns, ideas, observations, and whatever I’m learning at the moment.</p>
+    <div class="blog-grid">
+      <article class="blog-card reveal"><small>Research Notes</small><div><h3>Why reinforcement learning keeps pulling me in</h3><p>Thoughts on agents, adaptation, uncertainty, and why RL feels like a direction worth going deeper into.</p></div><b>Read soon →</b></article>
+      <article class="blog-card reveal"><small>Building</small><div><h3>From idea to prototype</h3><p>What I learn when I try to make an idea work outside of a notebook—and where the interesting problems usually appear.</p></div><b>Read soon →</b></article>
+      <article class="blog-card reveal"><small>Personal</small><div><h3>Why I keep interests outside of CS</h3><p>Music, football, astronomy, and the value of having things in life that don’t need to become a line on a résumé.</p></div><b>Read soon →</b></article>
+    </div>
+  </div>
+</section>
+
+
+<section id="contact">
+  <span class="contact-spark s1"></span><span class="contact-spark s2"></span><span class="contact-spark s3"></span>
+  <div class="wrap contact-grid">
+    <div class="contact-copy reveal">
+      <div class="contact-scene" aria-hidden="true"><div class="mail-orbit"></div><div class="mail-icon"></div></div>
+      <div class="eyebrow">Contact me</div>
+      <h2>Have an idea, question, or something worth building?</h2>
+      <p class="lede">Send it my way. I’m always interested in conversations around research, AI, software, hackathons, creative projects, and opportunities to collaborate.</p>
+      <div class="contact-kickers">
+        <span class="pill">Research</span><span class="pill">Projects</span><span class="pill">Hackathons</span><span class="pill">Collaborations</span>
+      </div>
+      <a class="contact-direct" href="mailto:diwthapa@ttu.edu"><span class="mail-dot"></span>diwthapa@ttu.edu</a>
+    </div>
+
+    <form id="contactForm" class="contact-form glass reveal" action="https://formsubmit.co/ajax/diwthapa@ttu.edu" method="POST">
+      <div class="form-top">
+        <div><h3>Start a conversation.</h3><p>I’ll receive your message directly in my inbox.</p></div>
+        <span class="status-light"><i></i>Open to messages</span>
+      </div>
+
+      <input type="hidden" name="_subject" value="New message from Diwash's portfolio" />
+      <input type="hidden" name="_template" value="table" />
+      <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off" />
+
+      <div class="form-row">
+        <div class="field">
+          <label for="contactName">Your name</label>
+          <input id="contactName" name="name" type="text" placeholder="Ada Lovelace" autocomplete="name" required />
+        </div>
+        <div class="field">
+          <label for="contactEmail">Your email</label>
+          <input id="contactEmail" name="email" type="email" placeholder="you@example.com" autocomplete="email" required />
+        </div>
+      </div>
+
+      <div class="field">
+        <label for="contactInquiry">What is this about?</label>
+        <select id="contactInquiry" name="inquiry" required>
+          <option value="" disabled selected>Select an inquiry</option>
+          <option>Research / Academic</option>
+          <option>Project / Collaboration</option>
+          <option>Hackathon / Event</option>
+          <option>Career / Opportunity</option>
+          <option>Just saying hello</option>
+          <option>Other</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="contactMessage">Your message</label>
+        <textarea id="contactMessage" name="message" placeholder="Tell me what you’re thinking about..." required></textarea>
+      </div>
+
+      <button class="send-btn" type="submit"><span>Send message →</span></button>
+      <div id="formMessage" class="form-message" role="status" aria-live="polite"></div>
+      <p class="contact-note">Your details are used only to send this inquiry to my inbox. Please don’t include sensitive information.</p>
+    </form>
+  </div>
+</section>
+
+<footer class="footer">Designed as a personal world, not a résumé. • Prototype for Diwash Thapa</footer>
+
+<script>
+  const io = new IntersectionObserver((entries)=>{
+    entries.forEach(e=>{ if(e.isIntersecting) e.target.classList.add('in'); });
+  },{threshold:.13});
+  document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+
+  // light parallax on the homepage portrait
+  window.addEventListener('mousemove',(e)=>{
+    const x=(e.clientX/window.innerWidth-.5), y=(e.clientY/window.innerHeight-.5);
+    const p=document.querySelector('.portrait');
+    if(p) p.style.transform=`translate(${x*8}px,${y*8}px)`;
+  });
+
+
+  // Contact form: send submissions to the portfolio inbox without leaving the page.
+  const contactForm=document.getElementById('contactForm');
+  const formMessage=document.getElementById('formMessage');
+  if(contactForm){
+    contactForm.addEventListener('submit',async(e)=>{
+      e.preventDefault();
+      const button=contactForm.querySelector('.send-btn');
+      const original=button.innerHTML;
+      button.disabled=true;
+      button.innerHTML='<span>Sending…</span>';
+      formMessage.className='form-message';
+      try{
+        const response=await fetch(contactForm.action,{
+          method:'POST',
+          body:new FormData(contactForm),
+          headers:{'Accept':'application/json'}
+        });
+        const data=await response.json().catch(()=>({}));
+        if(!response.ok || data.success===false) throw new Error(data.message||'Unable to send');
+        formMessage.textContent='Message sent. Thanks for reaching out — I’ll see it in my inbox.';
+        formMessage.className='form-message success show';
+        contactForm.reset();
+      }catch(err){
+        formMessage.innerHTML='I couldn’t send that automatically. You can email me directly at <a href="mailto:diwthapa@ttu.edu" style="text-decoration:underline">diwthapa@ttu.edu</a>.';
+        formMessage.className='form-message error show';
+      }finally{
+        button.disabled=false;
+        button.innerHTML=original;
+      }
+    });
+  }
+
+</script>
+</body>
+</html>
