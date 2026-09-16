@@ -13,7 +13,7 @@ Personal portfolio website for Diwash Thapa — Computer Science undergraduate a
 - Contact form
 
 ## Website
-
+https://diwash1340e.github.io/Personal-Website-2026/
 The site entry point is `index.html`. It loads the portfolio segments stored under `site/`.
 
 ## Contact
